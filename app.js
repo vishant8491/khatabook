@@ -2,6 +2,7 @@ const express = require('express');
 const app = express();
 const path = require("path");
 const fs = require('fs');
+require('dotenv').config();
 
 app.set("view engine", "ejs");
 app.use(express.json());
@@ -60,6 +61,6 @@ app.post ("/createhisaab", function(req, res) {
 
 let port = 3000
 
-app.listen(port,()=>{
+app.listen(process.env.PORT,()=>{
     console.log(`app is working on the port ${port}`)
 });
