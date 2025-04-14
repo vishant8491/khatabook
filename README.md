@@ -6,7 +6,8 @@ A simple and user-friendly digital ledger (hisaab) management website where user
 
 ## 🚀 Live Demo
 
-👉 [Click to View Live Site](https://vishant8491.github.io/khatabook/)
+👉 [Click to View Live Site])
+https://github.com/vishant8491/khatabook.git
 
 ---
 
