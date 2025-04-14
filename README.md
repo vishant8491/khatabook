@@ -77,3 +77,19 @@ npm install
 
 # Run the application
 node app.js
+
+
+
+
+📞 Contact
+Created with ❤️ by Vishant
+
+💼 GitHub: @vishant8491
+
+📧 Email: vishant8491@gmail.com
+
+🌐 Portfolio: Coming Soon (or share if you have one)
+
+📱 LinkedIn: linkedin.com/in/vishant8491
+
+
