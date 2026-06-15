@@ -76,7 +76,7 @@ cd khatabook
 npm install
 
 # Run the application
-node app.js
+nodemon app.js
 
 
 
@@ -90,6 +90,6 @@ Created with ❤️ by Vishant
 
 🌐 Portfolio: Coming Soon (or share if you have one)
 
-📱 LinkedIn: linkedin.com/in/vishant8491
+📱 LinkedIn: linkedin.com/in/vishant849
 
 
